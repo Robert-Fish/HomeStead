@@ -3,8 +3,15 @@
   width: 100vw;
 
   // Setting background image
-  background-image: url('https://images.pexels.com/photos/2091166/pexels-photo-2091166.jpeg?cs=srgb&dl=architecture-building-forest-2091166.jpg&fm=jpg');
+  background-image: url('https://images.pexels.com/photos/1612351/pexels-photo-1612351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+.HeaderText {
+  font-weight: bold;
+  font-size: 4.8rem;
+  color: #fff;
+  padding: 0 10%;
 }

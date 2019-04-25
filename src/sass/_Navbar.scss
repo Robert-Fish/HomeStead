@@ -1,0 +1,30 @@
+.NavBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 6rem;
+}
+
+.NavHeaderText {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 2rem;
+  margin: 0;
+  font-weight: bold;
+  color: #fff;
+  line-height: 6rem;
+  //   padding: 2rem;
+}
+
+.Nav-Item {
+  margin: 0;
+  line-height: 6rem;
+  color: #fff;
+  font-weight: bold;
+  padding: 0 1rem;
+  cursor: pointer;
+
+  &:hover {
+    background: #fff;
+    color: #000000;
+  }
+}
